@@ -1,4 +1,9 @@
 # ContactBookGit
+
+Tatiana Monteiro - nº 74222
+Viktor - xxxxx
+
+A Tatiana implementou o comando GN e o Viktor o comando EP.
 This is a starter kit for the first lab of the Software Engineering Course.
 Fork this project to make your own version of it.
 
