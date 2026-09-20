@@ -1,10 +1,9 @@
 # ContactBookGit
 
 Tatiana Monteiro - nº 74222
-Viktor - xxxxx
+Pedro Tavares - nº 65835
 
-A Tatiana implementou o comando GN e o Viktor o comando EP.
-This is a starter kit for the first lab of the Software Engineering Course.
-Fork this project to make your own version of it.
+* Tínhamos um 3ª elemento mas até às 23:30h de 20/09 não fez a parte estipulada,
+* pelo que decidimos avançar com a entrega do relatório.
 
-You will notice some things need to be updated in this code. It was originally made with Java 8 and JUnit 4. The plan is for you to still use JUnit 4, but you can and should use a more recent version, like Java 21. You may also note a few other redundant things (e.g. imports). Fix whatever you need to.
+
